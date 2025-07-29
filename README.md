@@ -21,7 +21,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript using Ma
 
 ## 🌐 Live Demo
 You can play the game live here:  
-👉 [https://yourusername.github.io/rock-paper-scissors](https://yourusername.github.io/rock-paper-scissors) *(update this with your GitHub Pages link)*
+👉 https://ishaansaxen.github.io/Rock-Paper-and-Scissors/
 
 
 
